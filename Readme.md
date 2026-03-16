@@ -51,4 +51,4 @@ Customized HTML landing pages are hosted on each server to provide visual confir
 
 ---
 **Project built by:** Divyansh Mishra
-**Environment:** Cisco Packet Tracer 8.x
+**Environment:** Cisco Packet Tracer
